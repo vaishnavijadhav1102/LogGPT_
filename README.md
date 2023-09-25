@@ -14,7 +14,7 @@ Welcome to the LogGPT! This repository houses an innovative system that harnesse
 
 -  **Predictive Analytics**: Forecast future system behavior based on historical log data, aiding in proactive capacity planning and resource allocation.
 
-Centralized System to collect log data
+# Centralized System to collect log data
 
 Note: This is a mock idea. We plan on implementing OpenSearch insead of Elastic Search and FluentD instead of Logstash. Both of them being open source which will ensure security.
 
