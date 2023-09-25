@@ -1,4 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Attached below are the mock UI design for our project:
 ![SIH frontend 1](https://github.com/vaishnavijadhav1102/SIH_LogGPT/assets/96016512/8ecb3502-880a-4529-adc9-369de4ba1b5d)
