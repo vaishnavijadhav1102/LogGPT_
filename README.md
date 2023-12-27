@@ -1,4 +1,4 @@
-# SIH_LogGPT
+# LogGPT
 Welcome to the LogGPT! This repository houses an innovative system that harnesses the power of advanced technologies, including Large Language Models, to analyze log data from IT systems. With this project, you can gain valuable insights, detect anomalies, and enhance the management of your IT infrastructure. Our objective is to make this system centralized.
 
 ## Features
